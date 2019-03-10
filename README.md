@@ -1,29 +1,24 @@
 # javascript_frameworks_ma2
 
+The project dont't work like it's suppose to. This is what I managde to do.. 
+
 ## Project setup
 ```
-npm install
+Install the project from Github
 ```
 
-### Compiles and hot-reloads for development
+### Dependencies
 ```
-npm run serve
+CD into the project folder by means of a terminal and run the following command "npm install" to install dependencies
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+While you're CD into the project, run the following command "npm run serve" to start the project.
 ```
 
 ### Run your tests
 ```
-npm run test
+Navigate to the following url "localhost:8080" in your browser to see the project.
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
